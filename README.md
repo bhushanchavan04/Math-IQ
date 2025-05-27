@@ -4,13 +4,18 @@ An interactive web-based multiplication quiz game built using HTML, CSS, and Jav
 
 Features:-
 Randomly generated multiplication questions
+
 Multiple choice answers (one correct + three distractors)
+
 Real-time feedback ("Correct ✅" / "Try Again ❌")
+
 Live score tracking
+
 Game restart functionality
+
 Clean and responsive UI
 
 Technologies Used:- 
-HTML5
-CSS3
-JavaScript
+HTML5, 
+CSS, 
+JavaScript.
